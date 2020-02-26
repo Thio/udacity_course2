@@ -19,7 +19,7 @@ router.get("/filteredimage", async (req: Request, res: Response) => {
 
 // Root URI call
 router.get("/", async (req: Request, res: Response) => {
-  res.send("/api/v0/");
+  res.send("Try /filteredimage?image_url={url}");
 });
 
 export const FilterRouter: Router = router;
