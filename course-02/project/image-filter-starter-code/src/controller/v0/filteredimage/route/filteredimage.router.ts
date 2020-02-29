@@ -22,4 +22,4 @@ router.get("/", async (req: Request, res: Response) => {
   res.send("Try /filteredimage?image_url={url}");
 });
 
-export const FilterRouter: Router = router;
+export const FilteredImageRouter: Router = router;
