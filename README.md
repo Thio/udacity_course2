@@ -1,8 +1,9 @@
 # cloud-developer
 content for Udacity's cloud developer nanodegree
 
-# First projects readme
+# First projects 
 https://github.com/Thio/udacity_course2/tree/dev/course-02/project/image-filter-starter-code
+Upload an images which get proceesed. It uses elastic beanstack.
 
 # Nanodegrees sampleprojects
 ## Frontend
